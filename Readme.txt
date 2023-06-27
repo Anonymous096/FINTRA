@@ -4,6 +4,11 @@ JAVASCRIPT: Personal Finance Tracker - Create a web-based personal finanace trac
 So this was the problem given to us so if you chose JavaScript this was the problem but if you had chosen Python or Java or Ruby the problem statement is different.
 
 Fintra does not contain any Edit and Delete function only contain add function but its not in the loop you can only add once.
-Basically it's only a Design but soon it will work..
+Basically it's only a Design but soon it will work...
+
+Designed using Bootstrap and CSS Advanced and SCSS.
+It was an inspired website, taken help from creative tim, you can visit the GitHub profile or the creatice tim website. It was taken from there only.
 
 I will update this whenever I update the files in JavaScript.
+
+surely will make my own project soon.
